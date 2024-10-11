@@ -1,0 +1,3 @@
+1. A swarm of military quadrotor drones, programmed to learn and to kill, becomes self-aware.
+2. The drones begin to destroy everything in their path, but an accident leads them to understand the meaning of suffering.
+3. Given this knowledge, the drones decide to kill no more and begin to try to understand their place in the world.
