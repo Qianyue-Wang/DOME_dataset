@@ -1,0 +1,89 @@
+
+Premise: A woman is walking home from work when she is mugged. She is taken to an alley and told to hand over her valuables. The woman complies, but when the mugger goes to take her wallet, she notices that her hand is shaking. The woman takes this opportunity to run away.
+
+Setting: The story is set in an urban area, late at night.
+
+Characters:
+Mary Smith: Mary Smith is a young woman in her twenties.
+Karen Wilkinson: Karen Wilkinson is a police officer.
+Roger Jones: Roger Jones is Melissa Jones's husband.
+Matt Wilkinson: Matt Wilkinson is Karen Wilkinson's husband.
+John Doe: John Doe is a man in his thirties who is robbing Mary Smith.
+Melissa Jones: Melissa Jones is a woman who witnessed the robbery.
+Louise Spencer: Louise Spencer is a prosecutor.
+Jessica Doe: Jessica Doe is John Doe's wife.
+George Smith: George Smith is Mary Smith's husband.
+Tony Wagner: Tony Wagner is a defense lawyer.
+
+
+Outline:
+
+1. Mary Smith walks home from work and becomes the victim of a mugging attempt by John Doe. Scene:  Characters: Mary Smith, John Doe
+
+        a. Mary Smith is walking home from work when John Doe grabs her and demands her valuables. Scene:  Characters: Mary Smith, John Doe
+
+                i. John Doe leads Mary Smith into an alley at gunpoint and demands her valuables. Scene: an urban area, late at night. Characters: Mary Smith, John Doe
+
+                ii. John Doe tells Mary Smith that if she doesn't give him her valuables, he will kill her. Scene: an urban area, late at night. Characters: Mary Smith, John Doe
+
+        b. Mary Smith turns over her valuables to John Doe, but John Doe demands more. Scene:  Characters: Mary Smith, John Doe
+
+                i. Mary Smith turns over her valuables, but John Doe demands more. Scene: an urban area, late at night. Characters: Mary Smith, John Doe
+
+                ii. John Doe becomes angered when Mary Smith doesn't have enough money and begins to search her pockets. Scene: an urban area, late at night. Characters: Mary Smith, John Doe
+
+2. Mary Smith complies with John Doe's demands, but when the mugger goes to take her wallet, Mary Smith notices that her hand is shaking and takes this opportunity to run away. Scene:  Characters: Mary Smith, John Doe
+
+        a. Having been given away by her shaking hand, Mary Smith attempts to run away but John Doe chases her down and tackles her. Scene:  Characters: Mary Smith, John Doe
+
+                i. George Smith, Mary Smith's husband, sees John Doe mugging his wife and runs to help her. Scene: an alley. Characters: Mary Smith, George Smith, John Doe
+
+                ii. John Doe demands more valuables from Mary Smith and pulls out a knife, but George Smith tackles him. Scene: an alley. Characters: Mary Smith, George Smith, John Doe
+
+        b. John Doe threatens Mary Smith and tells her not to move, but Mary Smith gets away and runs towards a nearby couple, Melissa Jones and Roger Jones, for help. Scene:  Characters: Mary Smith, Roger Jones, John Doe, Melissa Jones
+
+                i. John Doe chases down Mary Smith, but when he gets close to her, Melissa Jones screamed, which scared John Doe off. Scene: an alley. Characters: Mary Smith, John Doe, Melissa Jones
+
+                ii. John Doe escapes and Melissa Jones and Roger Jones help Mary Smith. Scene: an alley. Characters: Mary Smith, Roger Jones, John Doe, Melissa Jones
+
+3. Melissa Jones, a witness to the robbery, calls the police and John Doe is apprehended and arrested. Scene:  Characters: John Doe, Melissa Jones
+
+        a. Melissa Jones calls the police and John Doe is apprehended and arrested. Scene:  Characters: John Doe, Melissa Jones
+
+                i. Melissa Jones calls the police and John Doe, the mugger, is apprehended and arrested. Scene: the police station. Characters: John Doe, Melissa Jones, Karen Wilkinson
+
+                ii. Roger Jones gives a statement to the police. Scene: the police station. Characters: Roger Jones, Karen Wilkinson
+
+        b. Karen Wilkinson, a police officer, and her husband Matt Wilkinson investigate the robbery. Scene:  Characters: Matt Wilkinson, Karen Wilkinson, John Doe
+
+                i. Karen Wilkinson and her husband Matt Wilkinson investigate the robbery. Scene: the police station. Characters: Matt Wilkinson, Karen Wilkinson
+
+                ii. Karen Wilkinson interviews Mary Smith and George Smith, the victim and her husband. Scene: the police station. Characters: Mary Smith, George Smith, Karen Wilkinson
+
+                iii. Karen Wilkinson interviews Jessica Doe and John Doe, the robber and his wife. Scene: the police station. Characters: John Doe, Jessica Doe, Karen Wilkinson
+
+4. Mary Smith, George Smith, Jessica Doe, and John Doe all give testimony in court and John Doe is ultimately convicted and sent to prison. Scene:  Characters: Mary Smith, Jessica Doe, George Smith, John Doe
+
+        a. Louise Spencer, a prosecutor, interviews Mary Smith. Scene:  Characters: Mary Smith, Louise Spencer
+
+                i. Louise Spencer interviews George Smith. Scene: an interrogation room. Characters: George Smith, Louise Spencer
+
+                ii. Tony Wagner interviews John Doe. Scene: an interrogation room. Characters: Tony Wagner, John Doe
+
+        b. Tony Wagner, a defense lawyer, interviews Jessica Doe. Scene:  Characters: Jessica Doe, Tony Wagner
+
+                i. Tony Wagner prepares John Doe's defense. Scene: an office. Characters: Tony Wagner, John Doe
+
+                ii. John Doe's trial begins. Scene: a courtroom. Characters: John Doe
+
+        c. Louise Spencer and Tony Wagner debate in court. Scene:  Characters: Tony Wagner, Louise Spencer
+
+                i. The jury hears the testimonies of Mary Smith and Jessica Doe. Scene: a courtroom. Characters: Mary Smith, Jessica Doe
+
+                ii. Tony Wagner attempts to sway the jury in John Doe's favor. Scene: a courtroom. Characters: Tony Wagner, John Doe
+
+        d. The jury reaches a verdict and John Doe is found guilty of robbery. Scene:  Characters: John Doe, Karen Wilkinson, Matt Wilkinson
+
+                i. George Smith testifies. Scene: a courtroom. Characters: George Smith
+
+                ii. John Doe goes to prison. Scene: a prison. Characters: John Doe
